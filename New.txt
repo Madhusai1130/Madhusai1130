@@ -16,3 +16,7 @@ timer
 rabbit
 year
 ear
+daddy
+tar
+bar
+sar
